@@ -73,7 +73,7 @@ const projects = [
       { name: "ERC-1167" },
     ],
     image: "/work/work2-desktop.png",
-    live: "https://temperature-insurance.vercel.app/https://temperature-insurance.vercel.app/",
+    live: "https://temperature-insurance.vercel.app",
     github: "https://github.com/nyy100604/temperature-Insurance",
   },
 ];
