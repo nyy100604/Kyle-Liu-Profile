@@ -47,7 +47,7 @@ const Homepage = () => {
             {/* btn and social */}
             <div className="flex justify-center items-center gap-x-8 pb-10 lg:pb-0">
               {" "}
-              <Link href="https://drive.google.com/file/d/1PRpfz6y3PMnoIW9iL7QQgkak-lUqD1II/view?usp=sharing">
+              <Link href="https://drive.google.com/file/d/1LI9AgatUs4qaItgzQACAeP0crqHconlN/view?usp=sharing">
                 <Button
                   variant="outline"
                   size="lg"
